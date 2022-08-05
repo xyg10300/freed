@@ -10,7 +10,7 @@
 {
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
  
-  "spider": "https://share.nite07.com/api/v3/file/source/12107/TVBox.jar?sign=FqP_7RWHZCZYqf7jAj6ZFNAf5phTaK41mZIoecgGgNU%3D%3A0",
+  "spider": "https://raw.githubusercontents.com/xyg10300/freed/d370c4f3e5036c2c331fb615969b6eefc0859cf6/TVBox.jar",
 
   "sites": [
     {
